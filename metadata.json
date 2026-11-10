@@ -1,0 +1,11 @@
+{
+  "name": "ProctorQuality - AI-Assisted Online Examination System",
+  "description": "Software Project Quality Management platform for secure online examinations featuring WebRTC computer vision proctoring, 3-warning enforcement, PERT/CPM metric dashboard, multi-role governance, and Gemini agentic AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
