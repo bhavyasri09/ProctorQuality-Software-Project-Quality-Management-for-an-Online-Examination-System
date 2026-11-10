@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ProctorQuality: Software Project Quality Management for Online Examination System with AI-Assisted Proctoring
 
-# Run and deploy your AI Studio app
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Google Gemini](https://img.shields.io/badge/Gemini_3.8_Flash-Agentic_AI-8E75B2?logo=google&logoColor=white)](https://ai.google.dev/)
+[![WebRTC](https://img.shields.io/badge/WebRTC-Live_Proctoring-333333?logo=webrtc&logoColor=white)](https://webrtc.org/)
+[![Compliance](https://img.shields.io/badge/Standard-ISO%2FIEC_25010_%26_23988-success)](https://www.iso.org/)
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ae557ffd-64cf-4574-b33d-50e107d6d27f
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+An enterprise-grade M.Tech project prototype implementing Software Project Quality Management (SQM), Critical Path Method (CPM/PERT) scheduling, WebRTC real-time computer vision face and audio anomaly detection, a 3-warning enforcement rule, and Google Gemini agentic AI invigilation assistance.
